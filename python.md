@@ -1,4 +1,7 @@
-# Python Coding Style
+# Python Coding Style)
+
+References
++ [PEP-8 official documentation](https://www.python.org/dev/peps/pep-0008/)
 
 
 ### PEP 8 (Python Enhancement Proposal)
