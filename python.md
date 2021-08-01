@@ -4,6 +4,8 @@ References
 + [PEP-8 official documentation](https://www.python.org/dev/peps/pep-0008/)
 + [Python Code Quality](https://testdriven.io/blog/python-code-quality/)
 + [Python Type Checking](https://testdriven.io/blog/python-type-checking/)
++ [Documenting Python Code and Projects](https://testdriven.io/blog/documenting-python/)
+
 
 
 ### PEP 8 (Python Enhancement Proposal)
